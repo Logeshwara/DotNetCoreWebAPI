@@ -1,0 +1,14 @@
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.2\UserRegistration.deps.json
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.2\UserRegistration.runtimeconfig.json
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.2\UserRegistration.runtimeconfig.dev.json
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.2\UserRegistration.dll
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\bin\Debug\netcoreapp2.2\UserRegistration.pdb
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.csprojAssemblyReference.cache
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.csproj.CoreCompileInputs.cache
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.RazorAssemblyInfo.cache
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.RazorAssemblyInfo.cs
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.AssemblyInfoInputs.cache
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.AssemblyInfo.cs
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.RazorTargetAssemblyInfo.cache
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.dll
+L:\Project\DotNet_Core_WebAPI\UserRegistration_WebAPI\UserRegistration\UserRegistration\obj\Debug\netcoreapp2.2\UserRegistration.pdb
